@@ -2,17 +2,30 @@ import json
 from sqlalchemy.orm import Session
 from . import models
 from .database import SessionLocal
+import os
 
 
 def normalize_key(name, brand):
     return f"{brand}_{name}".lower().replace(" ", "_")
 
 
-def ingest_data(file_path: str):
+def ingest_data():
     db: Session = SessionLocal()
 
-    with open(file_path, "r", encoding="utf-8") as f:
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    full_path = os.path.join(BASE_DIR, "data", "sample_data.json")
+
+    print("Reading file from:", full_path)
+
+   
+
+    with open(full_path, "r", encoding="utf-8") as f:
         data = json.load(f)
+
+    if isinstance(data, dict):
+        data = [data]
+    elif not isinstance(data, list):
+        raise ValueError("Unsupported JSON format for ingest_data: expected object or list")
 
     for item in data:
 

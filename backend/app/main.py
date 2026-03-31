@@ -1,7 +1,10 @@
 from fastapi import FastAPI
+
 from .database import engine, Base
 from . import models
 from .ingest import ingest_data
+from .database import SessionLocal
+from sqlalchemy.orm import Session
 
 app = FastAPI()
 
@@ -17,5 +20,11 @@ def read_root():
 
 @app.post("/ingest/")
 def ingest():
-    ingest_data("data/sample_data.json") #update path
+    ingest_data() #update path
     return {"message": "Data ingested"}
+
+@app.get("/test-products/")
+def test_products():
+    db: Session = SessionLocal()
+    products = db.query(models.Product).all()
+    return {"count" : len(products)}
