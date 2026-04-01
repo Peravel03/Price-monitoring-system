@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entrupy Price Monitor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Entrupy Price Monitor</h1>
+        <button id="refresh-btn" onclick="triggerIngestion()">Trigger Data Refresh</button>
+    </header>
+
+    <main>
+        <section class="dashboard">
+            <h2>System Analytics</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>Total Products</h3>
+                    <p id="total-products">...</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Listings by Source</h3>
+                    <ul id="source-stats"></ul>
+                </div>
+                <div class="stat-card">
+                    <h3>Avg Price by Category</h3>
+                    <ul id="category-stats"></ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="products-section">
+            <h2>Browse Products</h2>
+            
+            <div class="filters">
+                <input type="text" id="filter-category" placeholder="Category (e.g. unknown)">
+                <input type="number" id="filter-min" placeholder="Min Price ($)">
+                <input type="number" id="filter-max" placeholder="Max Price ($)">
+                <button onclick="applyFilters()">Search</button>
+            </div>
+
+            <div class="product-grid" id="product-grid">
+                </div>
+        </section>
+    </main>
+
+    <div id="product-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <h2 id="modal-title">Product Details</h2>
+            <p id="modal-brand"></p>
+            
+            <h3>Marketplace Listings & Price History</h3>
+            <div id="modal-listings">
+                </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

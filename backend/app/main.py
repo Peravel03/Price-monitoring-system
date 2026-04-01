@@ -8,10 +8,24 @@ from .database import engine, Base, SessionLocal
 from . import models, schemas
 from .ingest import run_ingestion_pipeline
 
+#imports for front end
+from fastapi import FastAPI, Depends, HTTPException, Security, status, Query
+from fastapi.middleware.cors import CORSMiddleware
 app = FastAPI(title="Entrupy Price Monitoring API")
+
+# --- NEW CORS SETUP ---
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins for local development
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods (GET, POST, etc.)
+    allow_headers=["*"],  # Allows all headers (like our X-API-Key)
+)
+# ----------------------
 
 # Create tables
 Base.metadata.create_all(bind=engine)
+
 
 # --- AUTHENTICATION & USAGE TRACKING ---
 API_KEY_NAME = "X-API-Key"
