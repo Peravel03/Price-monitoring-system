@@ -6,7 +6,7 @@ from sqlalchemy.orm import Session
 from . import models
 from .database import SessionLocal
 
-# Setup basic logging to track our async tasks
+# Setup basic logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -14,28 +14,15 @@ def normalize_key(name, brand):
     return f"{brand}_{name}".lower().replace(" ", "_")
 
 async def fetch_marketplace_data(source_name: str, max_retries: int = 3) -> list:
-    """
-    Simulates async data fetching with retry logic and exponential backoff.
-    """
+    """Simulates async data fetching with retry logic."""
     for attempt in range(1, max_retries + 1):
         try:
             logger.info(f"Fetching from {source_name} (Attempt {attempt}/{max_retries})...")
-            
-            # Simulate network latency
             await asyncio.sleep(0.5)
             
-            # Simulate a network failure on the first attempt for one source to prove retries work
             if attempt == 1 and source_name == "grailed":
                 raise ConnectionError("Simulated network timeout")
 
-            # --- HOW THIS LOOKS IN PRODUCTION WITH HTTPX ---
-            # async with httpx.AsyncClient() as client:
-            #     response = await client.get(f"https://api.{source_name}.com/listings")
-            #     response.raise_for_status()
-            #     return response.json()
-            # -----------------------------------------------
-
-            # Fallback: Read our sample JSON file for the assignment
             BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
             full_path = os.path.join(BASE_DIR, "data", "sample_data.json")
             
@@ -50,21 +37,14 @@ async def fetch_marketplace_data(source_name: str, max_retries: int = 3) -> list
                 logger.error(f"Max retries reached for {source_name}. Skipping.")
                 return []
             
-            # Exponential backoff (1s, 2s, 4s...)
             backoff_time = 2 ** (attempt - 1)
             logger.info(f"Retrying {source_name} in {backoff_time} seconds...")
             await asyncio.sleep(backoff_time)
 
 async def gather_all_marketplaces():
-    """
-    Concurrently fetches data from all required marketplaces.
-    """
+    """Concurrently fetches data from all required marketplaces."""
     sources = ["grailed", "fashionphile", "1stdibs"]
-    
-    # Create concurrent async tasks
     tasks = [fetch_marketplace_data(source) for source in sources]
-    
-    # gather() runs them simultaneously. return_exceptions=True prevents one crash from ruining the batch
     results = await asyncio.gather(*tasks, return_exceptions=True)
     
     all_data = []
@@ -75,17 +55,12 @@ async def gather_all_marketplaces():
     return all_data
 
 def process_and_store_data(data: list):
-    """
-    Synchronous DB logic (your original code, slightly tweaked for the new pipeline).
-    """
+    """Synchronous DB logic to update prices and create Notification Events."""
     if not data:
-        logger.warning("No data retrieved to process.")
         return
 
     db: Session = SessionLocal()
     try:
-        # Assuming we just map everything to 1stdibs for now based on your previous code. 
-        # (If your JSON has a 'source' field, we can make this dynamic!)
         source_obj = db.query(models.Source).filter_by(name="1stdibs").first()
         if not source_obj:
             source_obj = models.Source(name="1stdibs")
@@ -118,13 +93,29 @@ def process_and_store_data(data: list):
             ).first()
 
             if existing_listing:
+                # --- PRICE CHANGE DETECTION & NOTIFICATION LOGIC ---
                 if existing_listing.current_price != price:
-                    logger.info(f"Price changed for: {name} (${existing_listing.current_price} -> ${price})")
+                    old_price = existing_listing.current_price
+                    logger.info(f"Price changed for: {name} (${old_price} -> ${price})")
+                    
+                    # 1. Update current price
                     existing_listing.current_price = price
                     
+                    # 2. Add to price history
                     history = models.PriceHistory(listing_id=existing_listing.id, price=price)
                     db.add(history)
+                    
+                    # 3. Create a pending Notification Event
+                    notification = models.NotificationEvent(
+                        listing_id=existing_listing.id,
+                        old_price=old_price,
+                        new_price=price,
+                        status="pending"
+                    )
+                    db.add(notification)
+                    
                     db.commit()
+                # ---------------------------------------------------
             else:
                 logger.info(f"New listing found: {name}")
                 listing = models.Listing(
@@ -142,13 +133,52 @@ def process_and_store_data(data: list):
     finally:
         db.close()
 
+async def process_notifications():
+    """
+    Background worker that finds pending notifications and 'sends' them.
+    This simulates a webhook delivery system.
+    """
+    db: Session = SessionLocal()
+    try:
+        pending_events = db.query(models.NotificationEvent).filter_by(status="pending").all()
+        
+        if not pending_events:
+            logger.info("No pending notifications to process.")
+            return
+
+        logger.info(f"Processing {len(pending_events)} pending notifications...")
+        
+        for event in pending_events:
+            event.status = "processing"
+            db.commit()
+            
+            try:
+                # Simulate network delay for sending a webhook
+                await asyncio.sleep(0.5)
+                
+                # The actual "Notification"
+                logger.info(f"[WEBHOOK FIRED] Alert! Listing {event.listing_id} changed from ${event.old_price} to ${event.new_price}")
+                
+                event.status = "sent"
+            except Exception as e:
+                logger.error(f"Failed to send webhook for event {event.id}: {e}")
+                event.status = "failed"
+                
+            db.commit()
+    finally:
+        db.close()
+
 async def run_ingestion_pipeline():
-    """Main entrypoint orchestrating fetch and store."""
+    """Main entrypoint orchestrating fetch, store, and notify."""
     logger.info("Starting async ingestion pipeline...")
     
+    # 1. Fetch data concurrently
     fetched_data = await gather_all_marketplaces()
     
-    # Run the synchronous DB operations in a separate thread so FastAPI doesn't block
+    # 2. Store data and create pending events (Synchronous DB writes in a thread)
     await asyncio.to_thread(process_and_store_data, fetched_data)
+    
+    # 3. Process webhooks in the background without blocking the main return
+    asyncio.create_task(process_notifications())
     
     logger.info("Ingestion pipeline completed.")
