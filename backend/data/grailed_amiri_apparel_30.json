@@ -1,0 +1,91 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Precious Memories Logo Hoodie NEW 1150$",
+  "price": 1150.0,
+  "size": "L",
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/33ede185edb64d7a84fa465e40866ac1",
+  "product_url": "https://www.grailed.com/listings/83892899",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Black",
+    "style": "Vintage",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/33ede185edb64d7a84fa465e40866ac1?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Precious Memories Logo Hoodie NEW 1150$ Size US L / EU 52-54 / 3 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/49fbb23153f548aa8ebcd6d62cf0d0f8?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Precious Memories Logo Hoodie NEW 1150$ Size US L / EU 52-54 / 3 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/8a3308c14dd04c738c80fd2c14fe98bf?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Precious Memories Logo Hoodie NEW 1150$ Size US L / EU 52-54 / 3 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/b13bb247e4704a9b8f3b9b66b9bd9751?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Precious Memories Logo Hoodie NEW 1150$ Size US L / EU 52-54 / 3 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/ed24929f3e6744c5a4b4928a4486e31b?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Precious Memories Logo Hoodie NEW 1150$ Size US L / EU 52-54 / 3 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/5a9fb500540f4df4aa53b799dd9ec11f?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Precious Memories Logo Hoodie NEW 1150$ Size US L / EU 52-54 / 3 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/3482afeb943e442f8602d01f67c6281b?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Precious Memories Logo Hoodie NEW 1150$ Size US L / EU 52-54 / 3 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "3348e98e-7d2b-4a54-a1c8-775e8c3a993b",
+  "product_id": "1b980508-9168-4e97-aced-e933f1c473aa",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

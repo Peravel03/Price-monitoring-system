@@ -1,0 +1,61 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Kilda jacket",
+  "price": 380.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/99da5bd68a9a4494a865f6b6a27c58de",
+  "product_url": "https://www.grailed.com/listings/83828986",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Multi",
+    "style": "Business",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/99da5bd68a9a4494a865f6b6a27c58de?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Kilda jacket Size US M / EU 48-50 / 2 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/1c0b5ab0ce6c4f8286e8d9ff4cc94fcb?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Kilda jacket Size US M / EU 48-50 / 2 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/139242c9bbb64299a347fd319ab82ace?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Kilda jacket Size US M / EU 48-50 / 2 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/f2fa4b664a034545a5c05bf780b465d0?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Kilda jacket Size US M / EU 48-50 / 2 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "2d3216c6-3a9d-47c8-bcc9-72c199d7834c",
+  "product_id": "5a087a5f-a3c1-400d-af7e-830e6e4a4a00",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

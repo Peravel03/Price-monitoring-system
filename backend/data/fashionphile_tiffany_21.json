@@ -1,0 +1,78 @@
+{
+  "product_url": "https://www.fashionphile.com/products/tiffany-18k-yellow-gold-t-wire-bracelet-1804534",
+  "condition": "Shows Wear",
+  "price": 2065.0,
+  "currency": "USD",
+  "image_url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103522/6e540eef9ea189c8585be6d0f3f60217.jpg",
+  "main_images": [
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103522/6e540eef9ea189c8585be6d0f3f60217.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Yellow Gold T Wire Bracelet 1 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/49dc75af678e58be7a2df8da02ecf60e.jpg?v=1770213266&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103522/4825dc537b4bb149ec24195144c59cfc.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Yellow Gold T Wire Bracelet 2 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/ac2e1b28bb33024eb2dc684a69139b08.jpg?v=1770213266&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103523/19502c5f8e5b9c78aa8ae540d6edba3c.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Yellow Gold T Wire Bracelet 3 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/8d51f6e61ae5b50947f249081df4dde5.jpg?v=1770213266&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103523/b7408d361f3032ae6bda69a40c3e9933.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Yellow Gold T Wire Bracelet 4 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/ed6ac541a63e74c6c78d3e3bc343e6a3.jpg?v=1770213266&width=1946"
+      }
+    }
+  ],
+  "product_id": "8185fc80-da5d-5ddd-a178-3b1a0996daca",
+  "brand_id": "tiffany",
+  "function_id": "apparel_authentication",
+  "metadata": {
+    "garment_type": "jewelry",
+    "description": "This is an authentic TIFFANY 18K Yellow Gold T Wire Bracelet. The bracelet is crafted of 18 karat yellow gold and features two T motifs on either end of a flexible wire cuff.",
+    "size_dimensions": {
+      "length": null,
+      "width": "9.5 mm",
+      "height": null,
+      "drop": null
+    },
+    "material": "18 karat yellow gold",
+    "item_number": "1804534",
+    "includes": [
+      "FASHIONPHILE Certificate of Authenticity",
+      "case"
+    ],
+    "pickup_location": "San Diego Flagship",
+    "shipping": {
+      "domestic": "Free",
+      "international": "Prices determined by item size & destination"
+    },
+    "returns": {
+      "policy": "Yes! All item(s) must be returned to FASHIONPHILE within fifteen (15) days of the order delivery date with tags attached and in the original condition in order to receive a full refund."
+    },
+    "condition_details": {
+      "exterior": null,
+      "handle": null,
+      "hardware": "Scratch(es)",
+      "interior": null
+    },
+    "original_price": 3500.0,
+    "sku": "1804534"
+  },
+  "brand": "Tiffany",
+  "model": "Tiffany 18K Yellow Gold T Wire Bracelet"
+}

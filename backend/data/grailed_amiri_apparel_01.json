@@ -1,0 +1,121 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Washed Filigree T-Shirt",
+  "price": 425.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/069726883ab242969a4b4e5e42429c2a",
+  "product_url": "https://www.grailed.com/listings/83672676",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Black",
+    "style": "Street",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/069726883ab242969a4b4e5e42429c2a?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Washed Filigree T-Shirt Size US XL / EU 56 / 4 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/609a8fac5f894c35a0b778b24cd87752?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Washed Filigree T-Shirt Size US XL / EU 56 / 4 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/94ab74a0979a40f0966990e9829cd302?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Washed Filigree T-Shirt Size US XL / EU 56 / 4 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/c7327cb2df9b45c68a276dfe84f63518?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Washed Filigree T-Shirt Size US XL / EU 56 / 4 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/ded5405f09a34763b8a42927633e454f?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Washed Filigree T-Shirt Size US XL / EU 56 / 4 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/f64a2d11638c40149daa96ef437ea105?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Washed Filigree T-Shirt Size US XL / EU 56 / 4 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/9926d3d68adb433fbc4832cde7988685?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Washed Filigree T-Shirt Size US XL / EU 56 / 4 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/7e1b125f47694d22a0754814342a6d81?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Washed Filigree T-Shirt Size US XL / EU 56 / 4 - 8 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/b182451ab3504359915203b70d1c984e?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Washed Filigree T-Shirt Size US XL / EU 56 / 4 - 9 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/5956938683fd4b5a9f45aafd4e31520a?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Washed Filigree T-Shirt Size US XL / EU 56 / 4 - 10 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "01f87c09-af2c-4717-b0f8-b41ad987a0ef",
+  "product_id": "3dcbbe62-a0c8-4238-8f42-acdb7f0af660",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

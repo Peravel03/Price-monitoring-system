@@ -1,0 +1,61 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Black Biker Leather Jacket",
+  "price": 1823.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/e7f207cd27ae4a8f8be3a83ac6209f62",
+  "product_url": "https://www.grailed.com/listings/83823504",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Black",
+    "style": "Business",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/e7f207cd27ae4a8f8be3a83ac6209f62?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Black Biker Leather Jacket Size US XS / EU 42 / 0 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/038ac4640f484565b550fb4f3f4a3166?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Black Biker Leather Jacket Size US XS / EU 42 / 0 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/b2fdc9a126064d3086cb116d0e42d2ff?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Black Biker Leather Jacket Size US XS / EU 42 / 0 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/0741f68f4f7841e0ad882cd85f871e6a?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Black Biker Leather Jacket Size US XS / EU 42 / 0 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "226365fd-3add-420f-9968-74d579a9b850",
+  "product_id": "1b893e85-2829-4164-b210-cae7157a2981",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

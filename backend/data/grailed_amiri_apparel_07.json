@@ -1,0 +1,61 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Kisses Fading Dye Knitwear Sweaters",
+  "price": 506.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/842c4bfa2b494b16b6f8e3bacce0b468",
+  "product_url": "https://www.grailed.com/listings/83882077",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Multi",
+    "style": "Vintage",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/842c4bfa2b494b16b6f8e3bacce0b468?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Kisses Fading Dye Knitwear Sweaters Size US XS / EU 42 / 0 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/dc0eab6a3aee4a1d94f58f13ece77b1a?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Kisses Fading Dye Knitwear Sweaters Size US XS / EU 42 / 0 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/4ff2b74127ba4352bb6fd679ff0e4240?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Kisses Fading Dye Knitwear Sweaters Size US XS / EU 42 / 0 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/5fa47ad0e8ed4989a0eb2f67f6b5b86a?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Kisses Fading Dye Knitwear Sweaters Size US XS / EU 42 / 0 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "0dbcfc35-89ed-424b-859e-9f6f5c6fb937",
+  "product_id": "680526cc-29fa-4250-87f8-fbf262ace027",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

@@ -1,0 +1,61 @@
+{
+  "brand": "amiri",
+  "model": "Logo tee",
+  "price": 308.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/e56c5e9f1ba44fa49eb9f1466d0b7a1b",
+  "product_url": "https://www.grailed.com/listings/83789640",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "White",
+    "style": "Vintage",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/e56c5e9f1ba44fa49eb9f1466d0b7a1b?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Logo tee Size US L / EU 52-54 / 3 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/8ef2805436b54e3f908e82276daf8f0b?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Logo tee Size US L / EU 52-54 / 3 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/613c44ed207a4d37ac69f6cb998247d1?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Logo tee Size US L / EU 52-54 / 3 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/37712ad0b7ca4f88aad865118ed420d6?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Logo tee Size US L / EU 52-54 / 3 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "256122f1-0fbd-4a65-9a72-1739051ff73c",
+  "product_id": "b104e3f6-3357-4bb9-8cf3-8d610c805057",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

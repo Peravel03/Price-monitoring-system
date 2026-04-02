@@ -1,0 +1,91 @@
+{
+  "brand": "amiri",
+  "model": "AMIRI Gray Pegasus Horse Bowling Shirt Silk",
+  "price": 540.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/42d714b8f0ac4cd294af7de5e8ae7123",
+  "product_url": "https://www.grailed.com/listings/83971358",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Gray",
+    "style": "Vintage",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/42d714b8f0ac4cd294af7de5e8ae7123?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri AMIRI Gray Pegasus Horse Bowling Shirt Silk Size US M / EU 48-50 / 2 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/83c071070ecd49bc9d7d87a806fea4e0?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri AMIRI Gray Pegasus Horse Bowling Shirt Silk Size US M / EU 48-50 / 2 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/ead9a5fb10654a94bb27b9533859461d?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri AMIRI Gray Pegasus Horse Bowling Shirt Silk Size US M / EU 48-50 / 2 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/14001431b80f4146aaadee86edda0b88?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri AMIRI Gray Pegasus Horse Bowling Shirt Silk Size US M / EU 48-50 / 2 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/b35c477befa04b70a5442b83019e36e6?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri AMIRI Gray Pegasus Horse Bowling Shirt Silk Size US M / EU 48-50 / 2 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/85f13c3d778c40e2b54a7b39e1c404be?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri AMIRI Gray Pegasus Horse Bowling Shirt Silk Size US M / EU 48-50 / 2 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/8e9f7e1db9ef4a3e84e0e62dc4633a76?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri AMIRI Gray Pegasus Horse Bowling Shirt Silk Size US M / EU 48-50 / 2 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "09118993-8180-4522-82f9-c6eebb8c71ee",
+  "product_id": "19674e6b-c486-4b21-bba4-f19f188846d4",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

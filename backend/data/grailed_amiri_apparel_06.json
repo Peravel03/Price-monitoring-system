@@ -1,0 +1,71 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Rendered Destroyed Shirt",
+  "price": 336.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/309dc514069c41e68c567bdc6c8a0908",
+  "product_url": "https://www.grailed.com/listings/83825947",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Multi",
+    "style": "Business",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/309dc514069c41e68c567bdc6c8a0908?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Rendered Destroyed Shirt Size US M / EU 48-50 / 2 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/2a302ba79d464f248c5a202ebce550dc?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Rendered Destroyed Shirt Size US M / EU 48-50 / 2 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/8c155723416e45938d55469d4d685f38?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Rendered Destroyed Shirt Size US M / EU 48-50 / 2 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/7107e01cf9824b9e97887755f92fdb62?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Rendered Destroyed Shirt Size US M / EU 48-50 / 2 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/6dd8e44a5d314b8d96d0c1473c4cd72f?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Rendered Destroyed Shirt Size US M / EU 48-50 / 2 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "0a5a7dc4-e526-4844-95aa-e45b3e889f42",
+  "product_id": "29b2a74f-d320-4c62-94df-d9cc0555d4b4",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

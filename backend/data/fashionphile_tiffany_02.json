@@ -1,0 +1,76 @@
+{
+  "product_url": "https://www.fashionphile.com/products/tiffany-sterling-silver-eiffel-tower-charm-1802958",
+  "condition": "Shows Wear",
+  "price": 205.0,
+  "currency": "USD",
+  "image_url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103440/9cc0eabb9c77abd304059a008d2d8052.jpg",
+  "main_images": [
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103440/9cc0eabb9c77abd304059a008d2d8052.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver Eiffel Tower Charm 1 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/76846d19c3dd1028956b887a9e353592.jpg?v=1770392537&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103440/f8b1f3e81a7f767e51c6856bd36e1869.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver Eiffel Tower Charm 2 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/91ea370cabbd480a29db272df011dc7a.jpg?v=1770392537&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103440/49d0001b03a3f99e4ba15ac21b954dd7.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver Eiffel Tower Charm 3 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/b67d07a5a43f724fd80273566cb5ebaf.jpg?v=1770392537&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103440/d0cae89033c49b52f43062e76210514c.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver Eiffel Tower Charm 4 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/ee6e2a37bc9b8a25eac7f426ecd6d007.jpg?v=1770392537&width=1946"
+      }
+    }
+  ],
+  "product_id": "b4ed7060-38c2-5434-85b2-9c8f917d097a",
+  "brand_id": "tiffany",
+  "function_id": "apparel_authentication",
+  "metadata": {
+    "garment_type": "jewelry",
+    "description": "This is an authentic TIFFANY Sterling Silver Eiffel Tower Charm. The charm is crafted of sterling silver and features a three-dimensional Eiffel Tower motif.",
+    "size_dimensions": {
+      "length": "32 mm",
+      "width": "12 mm",
+      "height": null,
+      "drop": null
+    },
+    "material": "Sterling silver",
+    "item_number": "1802958",
+    "includes": [
+      "FASHIONPHILE Certificate of Authenticity"
+    ],
+    "pickup_location": "San Diego Flagship",
+    "shipping": {
+      "domestic": "Free",
+      "international": "Prices determined by item size & destination"
+    },
+    "returns": {
+      "policy": "Yes! All item(s) must be returned to FASHIONPHILE within fifteen (15) days of the order delivery date with tags attached and in the original condition in order to receive a full refund."
+    },
+    "condition_details": {
+      "exterior": null,
+      "handle": null,
+      "hardware": "Scratch(es)",
+      "interior": null
+    },
+    "sku": "1802958"
+  },
+  "brand": "Tiffany",
+  "model": "Tiffany Sterling Silver Eiffel Tower Charm"
+}

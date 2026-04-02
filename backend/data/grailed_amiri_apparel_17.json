@@ -1,0 +1,71 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Rendered Shot Hoodie",
+  "price": 834.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/c91a112a1b2a47fea82f8be75f009e1c",
+  "product_url": "https://www.grailed.com/listings/83825630",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Gray",
+    "style": "Business",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/c91a112a1b2a47fea82f8be75f009e1c?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Rendered Shot Hoodie Size US XS / EU 42 / 0 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/663b5b982bdb487b9b7a1a41c3532eab?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Rendered Shot Hoodie Size US XS / EU 42 / 0 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/b10faedee0144a92ade1dc30343afc31?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Rendered Shot Hoodie Size US XS / EU 42 / 0 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/8e7f6f24aefa4d9f956955e175a4e6f8?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Rendered Shot Hoodie Size US XS / EU 42 / 0 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/a5d98103272642b0997b2b7ccfef1552?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Rendered Shot Hoodie Size US XS / EU 42 / 0 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "1c68bcf2-50bf-4691-8950-e597aaf0db3f",
+  "product_id": "6dc44984-5821-44af-9f7e-b0aed1446820",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

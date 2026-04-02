@@ -1,0 +1,111 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Alrbrush Hollywood Trucker Denim Jacket",
+  "price": 1804.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/e8aca51f05774f1fbbe6d94c41885078",
+  "product_url": "https://www.grailed.com/listings/83823182",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Blue",
+    "style": "Business",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/e8aca51f05774f1fbbe6d94c41885078?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Alrbrush Hollywood Trucker Denim Jacket Size US XS / EU 42 / 0 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/0aab4c42db7d422c96413645cc35e507?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Alrbrush Hollywood Trucker Denim Jacket Size US XS / EU 42 / 0 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/70ce03afa74e49b7a7adcd4f75f1b80d?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Alrbrush Hollywood Trucker Denim Jacket Size US XS / EU 42 / 0 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/1e483865b5ed40a8927051c95baf8b5d?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Alrbrush Hollywood Trucker Denim Jacket Size US XS / EU 42 / 0 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/5617e9625957499991f5e7572da08d9a?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Alrbrush Hollywood Trucker Denim Jacket Size US XS / EU 42 / 0 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/00076318ad9e475dab6f700522b58c55?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Alrbrush Hollywood Trucker Denim Jacket Size US XS / EU 42 / 0 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/2ad6ace72b9f4c59a51c35992017ba21?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Alrbrush Hollywood Trucker Denim Jacket Size US XS / EU 42 / 0 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/36a0375f55d54873837b8889e86a661d?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Alrbrush Hollywood Trucker Denim Jacket Size US XS / EU 42 / 0 - 8 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/78a7e40c07e34812b2715c165ac135ca?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Alrbrush Hollywood Trucker Denim Jacket Size US XS / EU 42 / 0 - 9 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "1c04cd55-a756-41fb-bee6-f917e2b82cf1",
+  "product_id": "7cd4284d-9435-4e2e-8331-cef6cb3a6191",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

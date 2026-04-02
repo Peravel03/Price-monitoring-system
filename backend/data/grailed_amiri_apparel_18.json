@@ -1,0 +1,101 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Patchwork Quilt Crewneck Sweatshirt",
+  "price": 325.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/66aa4c37207d4d148978f9f5c6f39205",
+  "product_url": "https://www.grailed.com/listings/83885788",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Green",
+    "style": "Vintage",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/66aa4c37207d4d148978f9f5c6f39205?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Patchwork Quilt Crewneck Sweatshirt Size US M / EU 48-50 / 2 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/cd2e0262ebb64f1288d0d3b42068db17?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Patchwork Quilt Crewneck Sweatshirt Size US M / EU 48-50 / 2 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/4a2ee08d0d5b46c4bc4f8f076f3363e9?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Patchwork Quilt Crewneck Sweatshirt Size US M / EU 48-50 / 2 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/6f7f2312f2af4496b7c985bc592480cd?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Patchwork Quilt Crewneck Sweatshirt Size US M / EU 48-50 / 2 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/7bea796e870641228511fbf2f6f83d9f?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Patchwork Quilt Crewneck Sweatshirt Size US M / EU 48-50 / 2 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/9fc025d8ec814f06889cadfd613b796e?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Patchwork Quilt Crewneck Sweatshirt Size US M / EU 48-50 / 2 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/6b657f189a024d89aa82b11130bb532c?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Patchwork Quilt Crewneck Sweatshirt Size US M / EU 48-50 / 2 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/413dc3e60f024b9a955ba61cf638623d?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Patchwork Quilt Crewneck Sweatshirt Size US M / EU 48-50 / 2 - 8 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "203b2fd3-78aa-4779-be97-ea126b81c3ce",
+  "product_id": "1ee5ef7f-b153-4777-b34e-7d2e5068535e",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

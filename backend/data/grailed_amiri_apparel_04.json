@@ -1,0 +1,111 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Logo Oversized Tee",
+  "price": 649.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/d65cbc6efeb74930a93a367bf65909d5",
+  "product_url": "https://www.grailed.com/listings/83978722",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Black",
+    "style": "Vintage",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/d65cbc6efeb74930a93a367bf65909d5?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Logo Oversized Tee Size US XL / EU 56 / 4 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/2ae69353ef094172a10789556b42c816?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Logo Oversized Tee Size US XL / EU 56 / 4 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/faa7bc21c25b4ae4a7344b9452dbefbb?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Logo Oversized Tee Size US XL / EU 56 / 4 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/e34c1a0398004a7997a89bd8eb9c8554?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Logo Oversized Tee Size US XL / EU 56 / 4 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/d547bdc607b8401e99060c8a3604b0e7?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Logo Oversized Tee Size US XL / EU 56 / 4 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/83f1be91c1014943a60ca256755a4e36?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Logo Oversized Tee Size US XL / EU 56 / 4 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/415b9b710dd2464bafae8cc61758c0d5?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Logo Oversized Tee Size US XL / EU 56 / 4 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/61c9d81d62fc44238efbe075293ac3c4?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Logo Oversized Tee Size US XL / EU 56 / 4 - 8 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/66cc47949f574a8aa4a76319032b22c9?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Logo Oversized Tee Size US XL / EU 56 / 4 - 9 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "08935b3c-b824-4753-b5df-919515e6628c",
+  "product_id": "5d2e454b-4282-4268-8483-baacf174c5ba",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

@@ -1,0 +1,92 @@
+{
+  "product_url": "https://www.fashionphile.com/products/tiffany-18k-yellow-gold-interlocking-atlas-open-pendant-necklace-1801716",
+  "condition": "Shows Wear",
+  "price": 1430.0,
+  "currency": "USD",
+  "image_url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103535/42f2bfa30e9fa47db002825a1f3b4c5e.jpg",
+  "main_images": [
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103535/42f2bfa30e9fa47db002825a1f3b4c5e.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Yellow Gold Interlocking Atlas Open Pendant Necklace 1 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/be6a15dda8af766422ead73f0e1c3c1c.jpg?v=1770145894&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103537/d90daad01d3554c19a6f50dedfbc723e.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Yellow Gold Interlocking Atlas Open Pendant Necklace 2 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/3dd865217806dba7167add1b53893025.jpg?v=1770145894&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103538/016263d11a18854259fce19669d8d4ef.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Yellow Gold Interlocking Atlas Open Pendant Necklace 3 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/9d2ff48c2b2e91c071797308402442a7.jpg?v=1770145893&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103538/05dda67f2be15420f71241aaf3f92955.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Yellow Gold Interlocking Atlas Open Pendant Necklace 4 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/a05fa134715529de9730a6d68cb9f961.jpg?v=1770145894&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103539/e4bbc810248ec35222f2066208b6bfc3.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Yellow Gold Interlocking Atlas Open Pendant Necklace 5 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/cc0f12f39ceff11adb405be5ca9e7918.jpg?v=1770145903&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103539/90d1c575e17d016bb1a4d06f955eb123.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Yellow Gold Interlocking Atlas Open Pendant Necklace 6 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/240b80c962abc30fd6a53e8707c84b98.jpg?v=1770145894&width=1946"
+      }
+    }
+  ],
+  "product_id": "fb67bdc5-a1dc-552a-a76e-6c296fe027e2",
+  "brand_id": "tiffany",
+  "function_id": "apparel_authentication",
+  "metadata": {
+    "garment_type": "jewelry",
+    "description": "This is an authentic TIFFANY 18K Yellow Gold Interlocking Atlas Open Pendant Necklace. The necklace is crafted of 18 karat yellow gold and features two interlocking atlas motif pendants.",
+    "size_dimensions": {
+      "length": "16 (18.00) in",
+      "width": "25 mm",
+      "height": null,
+      "drop": null
+    },
+    "material": "18 karat yellow gold",
+    "item_number": "1801716",
+    "includes": [
+      "FASHIONPHILE Certificate of Authenticity"
+    ],
+    "pickup_location": "San Diego Flagship",
+    "shipping": {
+      "domestic": "Free",
+      "international": "Prices determined by item size & destination"
+    },
+    "returns": {
+      "policy": "All item(s) must be returned to FASHIONPHILE within fifteen (15) days of the order delivery date with tags attached and in the original condition in order to receive a full refund."
+    },
+    "condition_details": {
+      "exterior": null,
+      "handle": null,
+      "hardware": "Scratch(es)",
+      "interior": null
+    },
+    "sku": "1801716"
+  },
+  "brand": "Tiffany",
+  "model": "Tiffany 18K Yellow Gold Interlocking Atlas Open Pendant Necklace"
+}

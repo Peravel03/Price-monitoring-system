@@ -1,0 +1,81 @@
+{
+  "brand": "amiri",
+  "model": "Amiri black distressed short-sleeved shirt",
+  "price": 200.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/5d706a2965c64cf2ae26a2e5b0d6b69c",
+  "product_url": "https://www.grailed.com/listings/83808886",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Black",
+    "style": "Business",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/5d706a2965c64cf2ae26a2e5b0d6b69c?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri black distressed short-sleeved shirt Size US S / EU 44-46 / 1 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/b22810cad38e42659b72bef36cffd424?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri black distressed short-sleeved shirt Size US S / EU 44-46 / 1 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/72cedad7cec946ddbe4914bbdc5c7058?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri black distressed short-sleeved shirt Size US S / EU 44-46 / 1 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/2fceb9d4ccc44b5dbaf50269499c7081?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri black distressed short-sleeved shirt Size US S / EU 44-46 / 1 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/44fdee8eb3a64e5384fe43466b3e02c1?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri black distressed short-sleeved shirt Size US S / EU 44-46 / 1 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/7468befd13034ad790c1c29aa0dc70a9?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri black distressed short-sleeved shirt Size US S / EU 44-46 / 1 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "14367eda-d16f-4070-b19a-276adba3ce05",
+  "product_id": "3fc0d74b-f14c-4b68-a3c7-6172e4de9342",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

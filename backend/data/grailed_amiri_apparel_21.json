@@ -1,0 +1,101 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Hollywood Burgundy Tee",
+  "price": 350.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/28854f4de6cc459b8b86f5fad2ae8605",
+  "product_url": "https://www.grailed.com/listings/83978576",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Red",
+    "style": "Vintage",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/28854f4de6cc459b8b86f5fad2ae8605?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Hollywood Burgundy Tee Size US XXL / EU 58 / 5 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/4d3a46aab1d945bb945c360af9f7d9d0?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Hollywood Burgundy Tee Size US XXL / EU 58 / 5 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/b7ebbffc67af4e39bf97daa3870a4b86?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Hollywood Burgundy Tee Size US XXL / EU 58 / 5 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/3296d824ab9f4bd1ad32967d7b9b758d?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Hollywood Burgundy Tee Size US XXL / EU 58 / 5 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/c5332122c2e44feea4633ef0300c92d3?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Hollywood Burgundy Tee Size US XXL / EU 58 / 5 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/cbc7aeee549c4f2782c4653d2cb13d7d?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Hollywood Burgundy Tee Size US XXL / EU 58 / 5 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/0b3bc0bbdad849138a00d02ee4cf78ea?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Hollywood Burgundy Tee Size US XXL / EU 58 / 5 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/cf8b51e8ef334c7f95f20e506bd16f16?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Hollywood Burgundy Tee Size US XXL / EU 58 / 5 - 8 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "236b1619-0051-4e60-93f0-dcc8c6761857",
+  "product_id": "ac5ccd1a-fb31-4a3c-ae55-fc8b62f60661",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

@@ -1,0 +1,111 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Varsity Jacket",
+  "price": 900.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/cd7026d8d7344381b3cec081f8e891fc",
+  "product_url": "https://www.grailed.com/listings/83971691",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Yellow",
+    "style": "Vintage",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/cd7026d8d7344381b3cec081f8e891fc?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Varsity Jacket Size US XL / EU 56 / 4 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/8fe59ddc7af640ac8d7f3778e2e3c2dd?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Varsity Jacket Size US XL / EU 56 / 4 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/9318b859221340b39b01ca501d22c9c9?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Varsity Jacket Size US XL / EU 56 / 4 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/8426f55145814542bfb508b0649bb165?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Varsity Jacket Size US XL / EU 56 / 4 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/83cce7a9417943dea06f614eceaa9c9e?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Varsity Jacket Size US XL / EU 56 / 4 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/7d094b3e19bb412b9a6f14ea3a5a9ba8?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Varsity Jacket Size US XL / EU 56 / 4 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/4b3880c49adf487f853eb2240600a98a?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Varsity Jacket Size US XL / EU 56 / 4 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/d3eee1baa7244743ab4c7e0f31165bb8?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Varsity Jacket Size US XL / EU 56 / 4 - 8 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/43c56e38922244d38e302ea0dfdf86df?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Varsity Jacket Size US XL / EU 56 / 4 - 9 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "18390084-be52-44b6-962f-29823a8cb7f2",
+  "product_id": "a8b902d5-33a9-4cb0-9c83-007c0cbb01cd",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

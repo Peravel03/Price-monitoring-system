@@ -1,0 +1,111 @@
+{
+  "brand": "amiri",
+  "model": "Amiri ouija board hoodie",
+  "price": 599.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/8d4d80abc1c54cdea4751e7afe0ae68c",
+  "product_url": "https://www.grailed.com/listings/83738354",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Blue",
+    "style": "Vintage",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/8d4d80abc1c54cdea4751e7afe0ae68c?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri ouija board hoodie Size US M / EU 48-50 / 2 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/85f1a219ddd448c6904337d75362cc93?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri ouija board hoodie Size US M / EU 48-50 / 2 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/133c371275094861b0f369a52eee3184?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri ouija board hoodie Size US M / EU 48-50 / 2 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/a591d5cabf5f4f6695cf6f603557d18a?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri ouija board hoodie Size US M / EU 48-50 / 2 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/150214398012436cac8d818aba529c46?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri ouija board hoodie Size US M / EU 48-50 / 2 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/eeddd29438ef4530aafadf3bb8d805ea?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri ouija board hoodie Size US M / EU 48-50 / 2 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/298d6c0146234e319a0f1250900a3dc4?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri ouija board hoodie Size US M / EU 48-50 / 2 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/923eceaafb1f4083a6b51f9f9aabf3cd?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri ouija board hoodie Size US M / EU 48-50 / 2 - 8 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/1a4b931036eb4f4987d818802476d79f?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri ouija board hoodie Size US M / EU 48-50 / 2 - 9 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "20ae76dd-b892-464b-bfcb-e5e7b05e01b7",
+  "product_id": "0414b285-0c82-4147-989b-2045f7ce02ea",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

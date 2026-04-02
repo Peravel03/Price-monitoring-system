@@ -1,0 +1,94 @@
+{
+  "product_url": "https://www.fashionphile.com/products/tiffany-platinum-diamond-ruby-soleste-ring-49-5-1729013",
+  "condition": "Excellent",
+  "price": 6295.0,
+  "currency": "USD",
+  "image_url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103539/9f117b699e851a7faeb8b34b914c734c.jpg",
+  "main_images": [
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103539/9f117b699e851a7faeb8b34b914c734c.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Platinum Diamond Ruby Soleste Ring 49 5 1 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/bf5b4084fcb0da1e49673b117119d7a4.jpg?v=1764848713&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103539/e06fd9c97d191867735fa0833f36bcf2.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Platinum Diamond Ruby Soleste Ring 49 5 2 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/e8ff53c4876eaf03650411d02e383740.jpg?v=1764848713&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103539/16c8a67d39626bac218684e7055f8de2.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Platinum Diamond Ruby Soleste Ring 49 5 3 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/5f4bf230ab39bff6bd36639d0abb1ad7.jpg?v=1764848713&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103540/ea0bab44187cc5c9d6f68e717c86e564.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Platinum Diamond Ruby Soleste Ring 49 5 4 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/caee1a080dc979be6b612e2521b95552.jpg?v=1764848713&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103539/c7c903f6cdc86af617ea2b24105136ab.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Platinum Diamond Ruby Soleste Ring 49 5 5 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/5097ec41696fcd189bb79eb9f551f171.jpg?v=1764848713&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103539/01b80ebddd19bba02b7dce681c925d45.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Platinum Diamond Ruby Soleste Ring 49 5 6 of 6",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/26a9235885cb3876e7343eb7f8c247c5.jpg?v=1764848713&width=1946"
+      }
+    }
+  ],
+  "product_id": "df89750d-2e95-53f9-9c17-2ae139c097b3",
+  "brand_id": "tiffany",
+  "function_id": "apparel_authentication",
+  "metadata": {
+    "garment_type": "jewelry",
+    "description": "This is an authentic TIFFANY Platinum Diamond Ruby Soleste Ring 49 5. The ring is crafted of platinum and features a round brilliant cut ruby with approximately .36 total carat weight of pave-set diamonds.",
+    "size_dimensions": {
+      "length": null,
+      "width": "11.25 mm",
+      "height": null,
+      "drop": null
+    },
+    "material": "Platinum",
+    "item_number": "1729013",
+    "includes": [
+      "FASHIONPHILE Certificate of Authenticity",
+      "box",
+      "case"
+    ],
+    "pickup_location": "NYC Flagship",
+    "shipping": {
+      "domestic": "Free",
+      "international": "Prices determined by item size & destination"
+    },
+    "returns": {
+      "policy": "Yes! All item(s) must be returned to FASHIONPHILE within fifteen (15) days of the order delivery date with tags attached and in the original condition in order to receive a full refund."
+    },
+    "condition_details": {
+      "exterior": null,
+      "handle": null,
+      "hardware": "Faint scratch(es)",
+      "interior": null
+    },
+    "sku": "1729013"
+  },
+  "brand": "Tiffany",
+  "model": "Tiffany Platinum Diamond Ruby Soleste Ring 49 5"
+}

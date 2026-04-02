@@ -1,0 +1,101 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Western Black Track Pants White Piping Size XXL",
+  "price": 890.0,
+  "size": "XXL",
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/ca99fb1f29784491bc0cc05404d896ac",
+  "product_url": "https://www.grailed.com/listings/83971813",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Black",
+    "style": "Casual",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/ca99fb1f29784491bc0cc05404d896ac?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Western Black Track Pants White Piping Size XXL Size US XXL / EU 58 / 5 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/2a3b6d999fc04902be63e9894259daaa?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Western Black Track Pants White Piping Size XXL Size US XXL / EU 58 / 5 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/0a6d7f4c6d11482e88878efd948bb5db?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Western Black Track Pants White Piping Size XXL Size US XXL / EU 58 / 5 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/a83cea3e44384036a859364f8367edef?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Western Black Track Pants White Piping Size XXL Size US XXL / EU 58 / 5 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/d983576bd08d4aab8475affcee179957?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Western Black Track Pants White Piping Size XXL Size US XXL / EU 58 / 5 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/bc96fafaf3e142af95c407e49b4f21f9?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Western Black Track Pants White Piping Size XXL Size US XXL / EU 58 / 5 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/df10fc13571845ba93108db89793d7a6?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Western Black Track Pants White Piping Size XXL Size US XXL / EU 58 / 5 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/cabdced8bbb4460696ad304d7badbac7?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Western Black Track Pants White Piping Size XXL Size US XXL / EU 58 / 5 - 8 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "26a098f6-b6ce-4012-8e37-e7087a5666c1",
+  "product_id": "bae58235-a40a-4289-802d-09bff55ec6c4",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

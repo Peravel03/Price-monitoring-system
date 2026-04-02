@@ -1,0 +1,85 @@
+{
+  "product_url": "https://www.fashionphile.com/products/tiffany-18k-rose-gold-small-t-smile-pendant-necklace-1801890",
+  "condition": "Shows Wear",
+  "price": 1220.0,
+  "currency": "USD",
+  "image_url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103534/d8f0b9762bec12eb658c7171c827f504.jpg",
+  "main_images": [
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103534/d8f0b9762bec12eb658c7171c827f504.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Rose Gold Small T Smile Pendant Necklace 1 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/a69f5a3a8eabd239cf2d2c0bb0edc6a7.jpg?v=1770212977&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103534/f5d7e0ac9cfe5a3cd584333cdedd02cd.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Rose Gold Small T Smile Pendant Necklace 2 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/819a186a23b270e914362fb4434d098d.jpg?v=1770212977&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103535/e3a9e3ef442f28cee2e0617e770ccc1c.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Rose Gold Small T Smile Pendant Necklace 3 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/49693c4c5f4edd848b5068554cab9814.jpg?v=1770212987&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103534/c2e12e1fee22172590965188b6dd39dc.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Rose Gold Small T Smile Pendant Necklace 4 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/6002291c9dcc3dade0f56c063447d819.jpg?v=1770212977&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103534/1a8670ded6beab62b2bfeafb610195c8.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Rose Gold Small T Smile Pendant Necklace 5 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/5e11d473209b2e27ea843bff525d046b.jpg?v=1770212977&width=1946"
+      }
+    }
+  ],
+  "product_id": "fb08b182-cfb9-5758-a602-9ca5e06c7bce",
+  "brand_id": "tiffany",
+  "function_id": "apparel_authentication",
+  "metadata": {
+    "garment_type": "jewelry",
+    "description": "This is an authentic TIFFANY 18K Rose Gold Small T Smile Pendant Necklace. The necklace is crafted of 18 karat rose gold and features a smile motif pendant on a delicate chain.",
+    "size_dimensions": {
+      "length": "16 in",
+      "width": "38 mm",
+      "height": null,
+      "drop": null
+    },
+    "material": "18 karat rose gold",
+    "item_number": "1801890",
+    "includes": [
+      "FASHIONPHILE Certificate of Authenticity"
+    ],
+    "pickup_location": "San Diego Flagship",
+    "shipping": {
+      "domestic": "Free",
+      "international": "Prices determined by item size & destination"
+    },
+    "returns": {
+      "policy": "Yes! All item(s) must be returned to FASHIONPHILE within fifteen (15) days of the order delivery date with tags attached and in the original condition in order to receive a full refund."
+    },
+    "condition_details": {
+      "exterior": null,
+      "handle": null,
+      "hardware": "Scratch(es)",
+      "interior": null
+    },
+    "original_price": 1250.0,
+    "sku": "1801890"
+  },
+  "brand": "Tiffany",
+  "model": "Tiffany 18K Rose Gold Small T Smile Pendant Necklace"
+}

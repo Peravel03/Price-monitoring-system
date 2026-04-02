@@ -1,0 +1,86 @@
+{
+  "product_url": "https://www.fashionphile.com/products/tiffany-sterling-silver-cultured-pearl-hibiscus-flower-station-necklace-1802512",
+  "condition": "Shows Wear",
+  "price": 585.0,
+  "currency": "USD",
+  "image_url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103529/f907e0569291e817dcefd33a2bf762da.jpg",
+  "main_images": [
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103529/f907e0569291e817dcefd33a2bf762da.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver Cultured Pearl Hibiscus Flower Station Necklace 1 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/63c84571a906bf8a607d5b1cb0f6dfde.jpg?v=1770213012&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103529/f955aee60a6642abc099f5c64706f2b9.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver Cultured Pearl Hibiscus Flower Station Necklace 2 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/5ae1321087a695cf75ea1e11ad514c26.jpg?v=1770213012&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103529/440fc5b9f65386bbf4fd6b98b0a92f63.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver Cultured Pearl Hibiscus Flower Station Necklace 3 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/a19e8a6c1651380540a20e57881b7bf4.jpg?v=1770213012&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103529/20e8e2d5b3b2d4054287d4647fea78f9.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver Cultured Pearl Hibiscus Flower Station Necklace 4 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/ea2d4ad7a46c7d07dd27240ed2067dbd.jpg?v=1770213012&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103529/9f38a10e90a80c377dd128bbc13e0d09.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver Cultured Pearl Hibiscus Flower Station Necklace 5 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/23a4ab42e0ce1c4fd64071ea8fb29d23.jpg?v=1770213012&width=1946"
+      }
+    }
+  ],
+  "product_id": "3eab1a29-8741-534a-954d-16404a550ecf",
+  "brand_id": "tiffany",
+  "function_id": "apparel_authentication",
+  "metadata": {
+    "garment_type": "jewelry",
+    "description": "This is an authentic TIFFANY Sterling Silver Cultured Pearl Hibiscus Flower Station Necklace. The necklace is crafted of sterling silver and features 7-11mm cultured pearls and round stations with Hibiscus flower engravings.",
+    "size_dimensions": {
+      "length": "35 in",
+      "width": "10 mm",
+      "height": null,
+      "drop": null
+    },
+    "material": "Sterling silver",
+    "item_number": "1802512",
+    "includes": [
+      "FASHIONPHILE Certificate of Authenticity",
+      "box",
+      "pouch"
+    ],
+    "pickup_location": "NYC Flagship",
+    "shipping": {
+      "domestic": "Free",
+      "international": "Calculated at checkout"
+    },
+    "returns": {
+      "policy": "All item(s) must be returned to FASHIONPHILE within fifteen (15) days of the order delivery date with tags attached and in the original condition in order to receive a full refund."
+    },
+    "condition_details": {
+      "exterior": "Minor wear to stone(s)",
+      "handle": null,
+      "hardware": "Scratch(es)",
+      "interior": null
+    },
+    "sku": "1802512"
+  },
+  "brand": "Tiffany",
+  "model": "Tiffany Sterling Silver Cultured Pearl Hibiscus Flower Station Necklace"
+}

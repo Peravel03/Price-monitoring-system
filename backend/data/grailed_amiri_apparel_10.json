@@ -1,0 +1,101 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Silk Shirt size small",
+  "price": 235.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/c0a12b6248a14f3890dd9696f313889d",
+  "product_url": "https://www.grailed.com/listings/83320334",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Blue",
+    "style": "Vintage",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/c0a12b6248a14f3890dd9696f313889d?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Silk Shirt size small Size US S / EU 44-46 / 1 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/db4a9f614a67494aa0070dbff1e5e549?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Silk Shirt size small Size US S / EU 44-46 / 1 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/62082e0c30a84e448c17ff1b0277ff4b?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Silk Shirt size small Size US S / EU 44-46 / 1 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/79f7f29d47b3442aba1974dca9600cac?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Silk Shirt size small Size US S / EU 44-46 / 1 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/84ed8da9c38f49dcb9316fd0a9ff5d71?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Silk Shirt size small Size US S / EU 44-46 / 1 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/84dfab2e090a491a865206b511b2e3a6?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Silk Shirt size small Size US S / EU 44-46 / 1 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/0d1a695f7bf34469ac7294603225bc2c?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Silk Shirt size small Size US S / EU 44-46 / 1 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/48001c005a2d4341ab12227fb8f7688c?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Silk Shirt size small Size US S / EU 44-46 / 1 - 8 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "11e42298-150e-4c20-8efa-21b153044df7",
+  "product_id": "4e1856c3-4489-4dc6-a2ac-bb1655200b80",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

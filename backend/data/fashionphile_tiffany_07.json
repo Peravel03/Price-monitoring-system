@@ -1,0 +1,76 @@
+{
+  "product_url": "https://www.fashionphile.com/products/tiffany-sterling-silver-1837-lock-charm-1802962",
+  "condition": "Shows Wear",
+  "price": 205.0,
+  "currency": "USD",
+  "image_url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103453/ffdba267bdbdfbcb785b61d04bcfee4b.jpg",
+  "main_images": [
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103453/ffdba267bdbdfbcb785b61d04bcfee4b.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver 1837 Lock Charm 1 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/93dfe314f4ac4e930b57bb0c48c8d9af.jpg?v=1770392634&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103452/2c19d8f73354e589547f22de7a4252d9.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver 1837 Lock Charm 2 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/9a998296a482e8b61a61d8dab900cd06.jpg?v=1770392634&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103453/86006cae172e711ebd05fee9e41e0f68.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver 1837 Lock Charm 3 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/3522440615609e17486d63ad4931e17a.jpg?v=1770392634&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103453/5a7101050c6310be9c65f807c7e513bb.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany Sterling Silver 1837 Lock Charm 4 of 4",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/69d4ac848982218fb28ffb0e8f1e97fa.jpg?v=1770392634&width=1946"
+      }
+    }
+  ],
+  "product_id": "a1a352ce-9ff7-5539-b7a8-12b148ef863c",
+  "brand_id": "tiffany",
+  "function_id": "apparel_authentication",
+  "metadata": {
+    "garment_type": "jewelry",
+    "description": "This is an authentic TIFFANY Sterling Silver 1837 Lock Charm. The charm is crafted of sterling silver and features a padlock motif charm engraved with the '1837' logo.",
+    "size_dimensions": {
+      "length": null,
+      "width": "14.5 mm",
+      "height": "26 mm",
+      "drop": null
+    },
+    "material": "Sterling silver",
+    "item_number": "1802962",
+    "includes": [
+      "FASHIONPHILE Certificate of Authenticity"
+    ],
+    "pickup_location": "San Diego Flagship",
+    "shipping": {
+      "domestic": "Free",
+      "international": "Prices determined by item size & destination"
+    },
+    "returns": {
+      "policy": "Yes! All item(s) must be returned to FASHIONPHILE within fifteen (15) days of the order delivery date with tags attached and in the original condition in order to receive a full refund."
+    },
+    "condition_details": {
+      "exterior": null,
+      "handle": null,
+      "hardware": "Scratch(es)",
+      "interior": null
+    },
+    "sku": "1802962"
+  },
+  "brand": "Tiffany",
+  "model": "Tiffany Sterling Silver 1837 Lock Charm"
+}

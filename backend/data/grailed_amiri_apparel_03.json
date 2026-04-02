@@ -1,0 +1,91 @@
+{
+  "brand": "amiri",
+  "model": "Amiri White grid shirt",
+  "price": 748.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/d6b5ca0d1b7e486a921318c20132e2b3",
+  "product_url": "https://www.grailed.com/listings/83829170",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Multi",
+    "style": "Business",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/d6b5ca0d1b7e486a921318c20132e2b3?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri White grid shirt Size US S / EU 44-46 / 1 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/8a9af62c6d6a4ee9b2083bcaab2c4510?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri White grid shirt Size US S / EU 44-46 / 1 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/b67ec4cdabac4ad2b109cc75dae7df46?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri White grid shirt Size US S / EU 44-46 / 1 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/96b52c88c78b412483bbef23175e69c4?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri White grid shirt Size US S / EU 44-46 / 1 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/6b936df077c64260be8eb3d0803e5644?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri White grid shirt Size US S / EU 44-46 / 1 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/3422e188923d42a4897e2c98c78b97e3?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri White grid shirt Size US S / EU 44-46 / 1 - 6 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/369a1640924b4790a318a4489b96d7ef?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri White grid shirt Size US S / EU 44-46 / 1 - 7 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "0677e554-d52e-4b56-8fe7-bb929a8efe7d",
+  "product_id": "4252acb9-d668-490c-8b07-1808a56b8bbe",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

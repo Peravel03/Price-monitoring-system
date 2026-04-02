@@ -1,0 +1,71 @@
+{
+  "brand": "amiri",
+  "model": "Amiri Black Yellow Leaves Shirt",
+  "price": 494.0,
+  "size": null,
+  "image_url": "https://media-assets.grailed.com/prd/listing/temp/b5ab19c6632c4e889428a86fa2bf8435",
+  "product_url": "https://www.grailed.com/listings/83751899",
+  "metadata": {
+    "seller_info": {},
+    "full_product_description": "",
+    "color": "Black",
+    "style": "Street",
+    "is_sold": false
+  },
+  "main_images": [
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/b5ab19c6632c4e889428a86fa2bf8435?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Black Yellow Leaves Shirt Size US XL / EU 56 / 4 - 1 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/155eb3cd59b441da9ecfa1d4664806de?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Black Yellow Leaves Shirt Size US XL / EU 56 / 4 - 2 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/2883835b5ea448199076f0bbe776e81d?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Black Yellow Leaves Shirt Size US XL / EU 56 / 4 - 3 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/6eadef292a5144248b602a9cecb324f1?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Black Yellow Leaves Shirt Size US XL / EU 56 / 4 - 4 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    },
+    {
+      "url": "https://media-assets.grailed.com/prd/listing/temp/d858e6a954d1427bb11cdcd017e9c9b2?w=1600",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Amiri Amiri Black Yellow Leaves Shirt Size US XL / EU 56 / 4 - 5 Thumbnail",
+        "width": "1600",
+        "original_width": "72",
+        "original_height": "72"
+      }
+    }
+  ],
+  "session_id": "28327e1b-0167-4ec3-bd64-a22219c7ecb1",
+  "product_id": "2fcf59d7-b66f-434a-a108-37774255f18f",
+  "brand_id": "amiri",
+  "function_id": "apparel_authentication"
+}

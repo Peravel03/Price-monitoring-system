@@ -1,0 +1,86 @@
+{
+  "product_url": "https://www.fashionphile.com/products/tiffany-18k-rose-gold-diamond-fleur-de-lis-ring-53-65-1720642",
+  "condition": "Shows Wear",
+  "price": 2095.0,
+  "currency": "USD",
+  "image_url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103523/912022ae07a1972e8b160a6d1679bda2.jpg",
+  "main_images": [
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103523/912022ae07a1972e8b160a6d1679bda2.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Rose Gold Diamond Fleur de Lis Ring 53 6.5 1 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/cf553ab93c1b19ed8165a412d869de31.jpg?v=1764849031&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103523/e1cbffdb4999c5915484c3d63d877fa4.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Rose Gold Diamond Fleur de Lis Ring 53 6.5 2 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/ff756af8ed97f8c515f21c2114045a73.jpg?v=1764849031&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103523/12a5efe224de3f7a1ee3921bf5e86e9a.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Rose Gold Diamond Fleur de Lis Ring 53 6.5 3 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/c3aa4a93cb68121998ea0b25f572dc3c.jpg?v=1764849031&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103526/12c6fa771b0cf5173f506bc66e999697.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Rose Gold Diamond Fleur de Lis Ring 53 6.5 4 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/3796bf6546aeb2d526e00644c7ef7bbd.jpg?v=1764849031&width=1946"
+      }
+    },
+    {
+      "url": "https://scraping-framework-s3-public.s3.us-east-1.amazonaws.com/image_cache/tiffany/20260218_103527/2df9815ffc788ce75a6e711cbe76a910.jpg",
+      "format": "image/jpeg",
+      "metadata": {
+        "description": "Tiffany 18K Rose Gold Diamond Fleur de Lis Ring 53 6.5 5 of 5",
+        "original_url": "https://www.fashionphile.com/cdn/shop/files/a722852d80b97459a671b965a4de9984.jpg?v=1764849031&width=1946"
+      }
+    }
+  ],
+  "product_id": "b011ec61-8454-5ad9-830d-78298aa1558f",
+  "brand_id": "tiffany",
+  "function_id": "apparel_authentication",
+  "metadata": {
+    "garment_type": "jewelry",
+    "description": "This is an authentic TIFFANY 18K Rose Gold Diamond Fleur de Lis Ring size 53 or 6.5. The ring is crafted of 18 karat rose gold featuring a fleur de lis key shaped motif accented with diamonds weighing approximately .21 total carat weight.",
+    "size_dimensions": {
+      "length": null,
+      "width": "14 mm",
+      "height": null,
+      "drop": null
+    },
+    "material": "18K Rose Gold",
+    "item_number": "1720642",
+    "includes": [
+      "FASHIONPHILE Certificate of Authenticity",
+      "box",
+      "case"
+    ],
+    "pickup_location": "NYC Flagship",
+    "shipping": {
+      "domestic": "Free",
+      "international": "Prices determined by item size & destination"
+    },
+    "returns": {
+      "policy": "All item(s) must be returned to FASHIONPHILE within fifteen (15) days of the order delivery date with tags attached and in the original condition in order to receive a full refund."
+    },
+    "condition_details": {
+      "exterior": null,
+      "handle": null,
+      "hardware": "Scratch(es)",
+      "interior": null
+    },
+    "sku": "1720642"
+  },
+  "brand": "Tiffany",
+  "model": "Tiffany 18K Rose Gold Diamond Fleur de Lis Ring 53 6.5"
+}
