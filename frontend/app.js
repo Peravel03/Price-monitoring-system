@@ -69,30 +69,75 @@ function renderAnalytics(data) {
 function renderProducts(products) {
     const grid = document.getElementById("product-grid");
     grid.innerHTML = "";
-
-    if (products.length === 0) {
-        grid.innerHTML = "<p>No products found matching those filters.</p>";
-        return;
-    }
+    
+    // Check if the user wants to see ONLY dropped prices
+    const showDroppedOnly = document.getElementById("filter-dropped").checked;
+    let displayedCount = 0;
 
     products.forEach(product => {
-        // Find lowest current price among listings
-        const lowestPrice = Math.min(...product.listings.map(l => l.current_price));
-        const numListings = product.listings.length;
+        // 1. Find the listing with the lowest current price
+        let bestListing = product.listings.reduce((prev, curr) => 
+            prev.current_price < curr.current_price ? prev : curr
+        );
+        
+        let lowestPrice = bestListing.current_price;
+        let numListings = product.listings.length;
+        
+        // 2. Check if this specific listing has dropped in price
+        let hasDropped = false;
+        let originalPrice = lowestPrice;
 
+        if (bestListing.price_history && bestListing.price_history.length > 1) {
+            originalPrice = bestListing.price_history[0].price;
+            if (lowestPrice < originalPrice) {
+                hasDropped = true;
+            }
+        }
+
+        // --- NEW LOGIC: Skip rendering if filter is ON but price hasn't dropped ---
+        if (showDroppedOnly && !hasDropped) {
+            return; // This skips to the next product in the loop
+        }
+
+        displayedCount++;
+
+        // 3. Build the HTML dynamically
         const card = document.createElement("div");
         card.className = "product-card";
         card.onclick = () => openModal(product);
+        
+        let priceSectionHTML = "";
+        if (hasDropped) {
+            priceSectionHTML = `
+                <div class="price-container">
+                    <span class="old-price">$${originalPrice}</span>
+                    <span class="current-price drop">$${lowestPrice} ↓</span>
+                    <span class="badge-drop">Price Dropped!</span>
+                </div>
+            `;
+        } else {
+            priceSectionHTML = `
+                <div class="price-container">
+                    <span class="current-price normal">Starting at $${lowestPrice}</span>
+                </div>
+            `;
+        }
+
         card.innerHTML = `
             <h3>${product.name}</h3>
             <p><strong>Brand:</strong> ${product.brand || 'N/A'}</p>
             <p><strong>Category:</strong> ${product.category}</p>
             <hr>
             <p>Available across <strong>${numListings}</strong> listings</p>
-            <p>Starting at <strong>$${lowestPrice}</strong></p>
+            ${priceSectionHTML}
         `;
         grid.appendChild(card);
     });
+
+    // Handle the case where no products match the drop filter
+    if (displayedCount === 0) {
+        grid.innerHTML = "<p>No products found matching those filters.</p>";
+    }
 }
 
 // --- FILTERS ---

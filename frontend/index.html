@@ -35,9 +35,15 @@
             <h2>Browse Products</h2>
             
             <div class="filters">
-                <input type="text" id="filter-category" placeholder="Category (e.g. unknown)">
+                <input type="text" id="filter-category" placeholder="Category (e.g. Apparel)">
                 <input type="number" id="filter-min" placeholder="Min Price ($)">
                 <input type="number" id="filter-max" placeholder="Max Price ($)">
+                
+                <label class="checkbox-label">
+                    <input type="checkbox" id="filter-dropped" onchange="applyFilters()">
+                    Price Drops Only
+                </label>
+                
                 <button onclick="applyFilters()">Search</button>
             </div>
 

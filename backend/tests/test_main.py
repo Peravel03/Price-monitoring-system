@@ -8,13 +8,13 @@ def test_missing_api_key(client):
     """Test that requests without an API key are rejected."""
     response = client.get("/products/")
     assert response.status_code == 401
-    assert response.json()["detail"] == "Invalid or missing API Key"
+    assert response.json()["detail"] == "Invalid or missing API Key. Please provide 'X-API-Key' in headers."
 
 def test_invalid_api_key(client):
     """Test that fake API keys are rejected."""
     response = client.get("/products/", headers={"X-API-Key": "fake-key"})
     assert response.status_code == 401
-    assert response.json()["detail"] == "Invalid or missing API Key"
+    assert response.json()["detail"] == "Invalid or missing API Key. Please provide 'X-API-Key' in headers."
 
 def test_valid_api_key_and_usage_tracking(client, valid_headers):
     """Test that a valid key works and increments usage."""

@@ -160,3 +160,58 @@ main {
     padding: 0.5rem;
     text-align: left;
 }
+/* --- PRICE DROP HIGHLIGHTS --- */
+.price-container {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.old-price {
+    text-decoration: line-through;
+    color: #95a5a6;
+    font-size: 0.9em;
+}
+
+.current-price.drop {
+    color: #27ae60; /* A nice, bright success green */
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.current-price.normal {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.badge-drop {
+    background-color: #e8f8f5;
+    color: #27ae60;
+    border: 1px solid #27ae60;
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.75em;
+    font-weight: bold;
+    margin-left: auto; /* Pushes it to the right */
+}
+
+/* --- CHECKBOX FILTER --- */
+.checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: bold;
+    color: var(--primary);
+    cursor: pointer;
+    background-color: white;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+}
+
+.checkbox-label input {
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+}
