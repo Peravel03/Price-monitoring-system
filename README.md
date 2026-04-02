@@ -48,7 +48,6 @@ From the `backend/` directory after activation:
 ```powershell
 cd backend
 uvicorn app.main:app --reload
-```pp.main:app --reload
 ```
 
 ### 5. Open the API docs
