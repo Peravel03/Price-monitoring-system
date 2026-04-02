@@ -23,7 +23,7 @@ def guess_category(name: str) -> str:
     
     name_lower = name.lower()
     
-    # Check against lists of keywords using any()
+    
     if any(word in name_lower for word in ["jacket", "shirt", "denim", "sweater", "tee", "jeans", "hoodie", "pants", "cardigan"]):
         return "Apparel"
         
@@ -42,7 +42,7 @@ def guess_category(name: str) -> str:
     elif any(word in name_lower for word in ["watch", "timepiece"]):
         return "Watches"
     
-    return "Other" # fallback for items that don't match any category
+    return "Other" 
 
 async def fetch_marketplace_data(source_name: str, max_retries: int = 3) -> dict:
     """Fetches data from all local JSON files matching the source_name."""

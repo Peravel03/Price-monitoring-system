@@ -23,41 +23,32 @@ cd C:\Users\HP\price-monitoring-system
 
 ### 2. Activate the virtual environment
 
-This repository contains both `.venv/` and `venv/`. Use the one that exists and is populated.
+This repository uses `venv/` for its environment dependencies. 
 
+**Windows (PowerShell):**
 ```powershell
-# Preferred if .venv exists
-.\.venv\Scripts\Activate.ps1
-
-# Or use the alternate env if needed
 .\venv\Scripts\Activate.ps1
 ```
 
-If you prefer not to activate, use the interpreter directly:
-
-```powershell
-.\.venv\Scripts\python.exe -m uvicorn backend.app.main:app --reload
+**Mac/Linux:**
+```bash
+source venv/bin/activate
 ```
 
-### 3. Install dependencies (if needed)
+### 3. Install dependencies
 
 ```powershell
-.\.venv\Scripts\python.exe -m pip install -r backend/requirements.txt
+pip install -r backend/requirements.txt
 ```
 
 ### 4. Start the API server
-
-From the project root:
-
-```powershell
-.\.venv\Scripts\python.exe -m uvicorn backend.app.main:app --reload
-```
 
 From the `backend/` directory after activation:
 
 ```powershell
 cd backend
 uvicorn app.main:app --reload
+```pp.main:app --reload
 ```
 
 ### 5. Open the API docs
@@ -66,6 +57,9 @@ Once the server is running, visit:
 
 - `http://127.0.0.1:8000/docs`
 - `http://127.0.0.1:8000/redoc`
+
+### 6. Open index.html in the frontend folder
+-Run with live server to open the website interface
 
 ## API documentation
 
@@ -270,6 +264,28 @@ From the project root:
 ```powershell
 .\.venv\Scripts\python.exe -m pytest backend/tests
 ```
+
+### Test Coverage (10/10 Passing)
+
+The backend includes a comprehensive Pytest suite using an in-memory SQLite `StaticPool` to ensure isolated, repeatable testing. The suite validates:
+
+**Authentication & Security**
+* `test_valid_api_key_and_usage_tracking`: Ensures valid keys are accepted and usage metrics increment correctly.
+* `test_invalid_api_key_rejected`: Verifies missing or incorrect keys return a `401 Unauthorized`.
+
+**Ingestion & Database Logic**
+* `test_no_duplicate_history_on_same_price`: Prevents database bloat by ensuring identical prices don't create duplicate history rows.
+* `test_price_change_creates_history_and_notification`: Validates that a detected price drop successfully creates a new chronological history record and queues a webhook event.
+* `test_product_deduplication`: Ensures items scraped from different sources with the same normalized key map to the same base product.
+
+**Webhook Notifications (Outbox Pattern)**
+* `test_notification_delivery_failure_handling`: Simulates a network timeout and ensures failed webhooks are safely logged as `failed` rather than losing the event data.
+
+**API Endpoints & Analytics**
+* `test_get_products_includes_chronological_history`: Seeds the database and verifies that nested relationships (Products -> Listings -> History) serialize correctly and chronologically.
+* `test_trigger_refresh_endpoint`: Validates that the `POST /ingest/` endpoint successfully triggers the asynchronous background pipeline.
+* `test_analytics_aggregations`: Ensures the `GET /analytics/` endpoint accurately calculates total listings by source and average prices by category.
+* `test_input_validation`: Ensures the API correctly handles malformed requests and validates data types using Pydantic schemas.
 
 ## Notes
 
