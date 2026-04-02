@@ -263,12 +263,8 @@ erDiagram
         float old_price
         float new_price
     }
+```
 
-  
-### 2. The Webhook Outbox Flow (Sequence Diagram)
-This perfectly illustrates the asynchronous event architecture we discussed. Drop this right under your "Notification implementation" section.
-
-```markdown
 ### Asynchronous Notification Flow
 ```mermaid
 sequenceDiagram
@@ -290,9 +286,7 @@ sequenceDiagram
     else Target Server Down
         Worker->>DB: 7b. Mark Status: Failed (Saved for Retry)
     end
-
-
-
+```
 ## Known limitations
 
 ### Current limits
