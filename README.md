@@ -233,6 +233,66 @@ To extend cleanly:
 - shard ingestion across workers so no single process blocks on all sources
 - normalize marketplace payloads through a shared transformation layer
 
+### Database Schema
+```mermaid
+erDiagram
+    PRODUCT ||--o{ LISTING : has
+    SOURCE ||--o{ LISTING : hosts
+    LISTING ||--o{ PRICE_HISTORY : tracks
+    LISTING ||--o{ NOTIFICATION_EVENT : triggers
+
+    PRODUCT {
+        int id PK
+        string name
+        string brand
+        string category
+    }
+    LISTING {
+        int id PK
+        float current_price
+        string external_id
+    }
+    PRICE_HISTORY {
+        int id PK
+        float price
+        datetime timestamp
+    }
+    NOTIFICATION_EVENT {
+        int id PK
+        string status
+        float old_price
+        float new_price
+    }
+
+  
+### 2. The Webhook Outbox Flow (Sequence Diagram)
+This perfectly illustrates the asynchronous event architecture we discussed. Drop this right under your "Notification implementation" section.
+
+```markdown
+### Asynchronous Notification Flow
+```mermaid
+sequenceDiagram
+    participant Scraper as Ingestion Pipeline
+    participant DB as SQLite Database
+    participant Worker as Async Background Worker
+
+    Scraper->>DB: 1. Detect Price Drop
+    Note over Scraper, DB: Atomic Transaction
+    Scraper->>DB: 2. Update Listing Price
+    Scraper->>DB: 3. Insert NotificationEvent (Status: Pending)
+    
+    Worker->>DB: 4. Poll for 'Pending' Events
+    Worker->>DB: 5. Lock Event (Status: Processing)
+    Worker->>Worker: 6. Attempt Webhook Delivery (Network Simulator)
+    
+    alt Delivery Successful
+        Worker->>DB: 7a. Mark Status: Sent
+    else Target Server Down
+        Worker->>DB: 7b. Mark Status: Failed (Saved for Retry)
+    end
+
+
+
 ## Known limitations
 
 ### Current limits
@@ -291,3 +351,5 @@ The backend includes a comprehensive Pytest suite using an in-memory SQLite `Sta
 - The current server entrypoint is `backend.app.main:app`.
 - The API is designed to be easy to extend, with ingestion separated from data storage and notification handling.
 - Use `/docs` after startup to explore models and example requests interactively.
+
+
