@@ -92,12 +92,12 @@ async def gather_all_marketplaces():
     # Filter out any fatal async crashes, keeping only successful dicts
     return [r for r in results if isinstance(r, dict)]
 
-def process_and_store_data(results: list):
+def process_and_store_data(results: list, db: Session = None):
     """Synchronous DB logic to update prices, assign sources, and trigger notifications."""
     if not results:
         return
 
-    db: Session = SessionLocal()
+    db = db or SessionLocal()
     try:
         for result in results:
             source_name = result["source"]
